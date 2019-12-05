@@ -12,8 +12,7 @@ you have to restart iRIC to apply the setting.
 This document describes the procedure to prepare
 translation dictionaries of iRIC.
 
-Language dictionary files you need to prepare translation for
-iRIC software are shown in :numref:`table_dic_files`.
+Dictionary files you need to prepare are shown in :numref:`table_dic_files`.
 
 .. list-table:: Dictionary files
    :name: table_dic_files
@@ -25,7 +24,7 @@ iRIC software are shown in :numref:`table_dic_files`.
      - GUI
 
    * - \*.ts
-     - | Xml text file
+     - | XML text file
        | This file contains the translated texts used in iRIC.
      - x
      - x
@@ -69,3 +68,15 @@ additional languages, please contact us.
 
    * - Chinese
      - \*_zh_CN.ts
+
+   * - Spanish
+     - \*_es_ES.ts
+
+   * - French
+     - \*_fr_FR.ts
+
+   * - Russian
+     - \*_ru_RU.ts
+
+   * - Vietnum
+     - \*_vi_VN.ts
