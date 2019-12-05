@@ -53,12 +53,10 @@ create local copy, edit files, and push the modification to the repository.
 
 If you are new to github, the easiest way is to edit the file on web browser.
 
-For example, If you want to edit Spanish dictionary for Solver Console Window, it
-is available from the following URL:
+All the dictionary files are saved in "languages" folder, so please access that folder,
+and click on the file you want to edit.
 
-https://github.com/(your_account_id)/prepost-gui/blob/master/libs/solverconsole/languages/iricSolverconsole_es_ES.ts
-
-Please click on the pencil icon with popup "Edit this file", to start editing.
+Then, please click on the pencil icon with popup "Edit this file", to start editing.
 
 :numref:`code_ts_before_editing_vol` and :numref:`code_ts_after_editing_vol` shows
 an example of code before and after editing. 
