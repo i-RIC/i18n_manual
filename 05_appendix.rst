@@ -5,13 +5,12 @@ Appendix: Installilng Qt SDK
 
 You can download the Qt SDK installer from following url:
 
-https://www.qt.io/download
+https://www.qt.io/download-open-source
 
-1. Click on "Go open source" link. It is at almost the bottom of the page.
-2. Click on "Accept" link.
-3. Click on "Download" link.
+1. Click on "Download the Qt Online Installer". It is at almost the bottom of the page.
+2. Click on "Qt Online Installer for Windows" link.
 
-Then, you'll get qt-unified-windows-x86-3.0.2-online.exe (Maybe the version number is different).
+Then, you'll get qt-unified-windows-x64-4.5.2-online.exe (Maybe the version number is different).
 
 Now, launch the installer by double-clicking.
 

@@ -37,15 +37,18 @@ Dictionary files you need to prepare are shown in :numref:`table_dic_files`.
      - 
      - x
 
-You can find the translation file(\*.ts and \*.qm) for iRIC GUI
-at the following folder:
+You can find the translation file(\*.ts) for iRIC GUI
+at the following URL:
 
-  (Install folder)\\iRIC\\guis\\prepost\\languages
+  https://github.com/i-RIC/prepost-gui/tree/develop_v4/languages
+
+
+The files with name "iRIC_xx_XX.ts" are the files to translate. They are the files
+created from dictionary files for each libraries by merging.
 
 The languages currently supported in iRIC, and the file names of
 translation files for each language are shown in
-:numref:`table_languages`. If you want to add translation for
-additional languages, please contact us.
+:numref:`table_languages`.
 
 .. list-table:: Languages currently supported
    :name: table_languages
@@ -54,29 +57,113 @@ additional languages, please contact us.
    * - Language
      - File name
 
-   * - Japanese
-     - \*_ja_JP.ts
+   * - Arabic
+     - iRIC_ar_EG.ts
 
-   * - Korean
-     - \*_ko_KR.ts
+   * - Basque
+     - iRIC_eu_ES.ts
 
-   * - Thai
-     - \*_th_TH.ts
+   * - Bosnian
+     - iRIC_bs_BA.ts
 
-   * - Indonesian
-     - \*_id_ID.ts
+   * - Bulgarian
+     - iRIC_bg_BG.ts
 
-   * - Chinese
-     - \*_zh_CN.ts
+   * - Catalan
+     - iRIC_ca_ES.ts
 
-   * - Spanish
-     - \*_es_ES.ts
+   * - Chinese (China)
+     - iRIC_zh_CN.ts
+
+   * - Chinese (Taiwan)
+     - iRIC_zh_TW.ts
+
+   * - Czech
+     - iRIC_cs_CZ.ts
+
+   * - Danish
+     - iRIC_da_DK.ts
+
+   * - Dutch
+     - iRIC_nl_NL.ts
+
+   * - Estonian
+     - iRIC_et_EE.ts
+
+   * - Finnish
+     - iRIC_fi_FI.ts
 
    * - French
-     - \*_fr_FR.ts
+     - iRIC_fr_FR.ts
+
+   * - German
+     - iRIC_de_DE.ts
+
+   * - Galician
+     - iRIC_gl_ES.ts
+
+   * - Greek
+     - iRIC_el_GR.ts
+
+   * - Hindi
+     - iRIC_hi_IN.ts
+
+   * - Hungarian
+     - iRIC_hu_HU.ts
+
+   * - Icelandic
+     - iRIC_is_IS.ts
+
+   * - Indonesian
+     - iRIC_id_ID.ts
+
+   * - Italian
+     - iRIC_it_IT.ts
+
+   * - Japanese
+     - iRIC_ja_JP.ts
+
+   * - Korean
+     - iRIC_ko_KR.ts
+
+   * - Latvian
+     - iRIC_lv_LV.ts
+
+   * - Lithuanian
+     - iRIC_lt_LT.ts
+
+   * - Norwegian
+     - iRIC_nb_NO.ts
+
+   * - Polish
+     - iRIC_pl_PL.ts
+
+   * - Portuguese (Brazil)
+     - iRIC_pt_BR.ts
+
+   * - Portuguese (Portugal)
+     - iRIC_pt_PT.ts
+
+   * - Romanian
+     - iRIC_ro_RO.ts
 
    * - Russian
-     - \*_ru_RU.ts
+     - iRIC_ru_RU.ts
 
-   * - Vietnum
-     - \*_vi_VN.ts
+   * - Slovenian
+     - iRIC_sl_SI.ts
+
+   * - Spanish
+     - iRIC_es_ES.ts
+
+   * - Swedish
+     - iRIC_sv_SE.ts
+
+   * - Thai
+     - iRIC_th_TH.ts
+
+   * - Turkish
+     - iRIC_tr_TR.ts
+
+   * - Ukrainian
+     - iRIC_uk_UA.ts
